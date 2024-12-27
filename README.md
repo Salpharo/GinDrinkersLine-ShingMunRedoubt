@@ -2,6 +2,8 @@
 ## Introduction
 This is my final year project in Interior and Environment Design. This initiative aims to conservate and phygitalize the Shing Mun Redoubt, bring the war-time architecture into Unity. This project provides a platform to discus the intergration of gamification within the Unity environment.
 
+Check this project at https://salpharo.com/home
+
 ## Key Features
 - Real historical base narrative
 - 80% similarity to the real war-time architecture
@@ -16,7 +18,7 @@ To get started with my final year project, follow these steps:
 5. Customize and Create: Start importing your own design assets, create interactive scenes, and unlock the potential of Unity for your design projects.
 
 ## Documentation and Resources
-For this project, adequate historial researches had been made through this process. For more detail of the research that I did, please visit [My's website](https://salpharo.co.uk) for more information. 
+For this project, adequate historial researches had been made through this process. For more detail of the research that I did, please visit [My's website](https://salpharo.com/home) for more information. 
 
 - Gameplay Guidelines:  To be updated
 - Tutorials and Guides: 
@@ -29,6 +31,7 @@ Contributions on this project are welcome, I hope to expand the awareness of con
 
 ## Support
 For any questions, support, or further inquiries regarding my final year project, please  reach out to me at [unconfirmed123456@gmail.com](unconfirmed123456@gmail.com).
+https://salpharo.com/home
 
 ## Related work
 - To be updated
